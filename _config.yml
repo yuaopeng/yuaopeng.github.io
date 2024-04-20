@@ -8,8 +8,8 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
+footer: yes
+footer_url: "https://github.com/aolueur"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
