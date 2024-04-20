@@ -9,4 +9,4 @@ is_contact: true
 
 ---
 
-3. [Linkdin+](www.linkedin.com/in/yuao-peng-b1364125a)
+3. [Linkedin](www.linkedin.com/in/yuao-peng-b1364125a)
