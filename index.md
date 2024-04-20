@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 * Email: [yp439@cornell.edu](mailto:yp439@cornell.edu)
 
-* [Linkedin](www.linkedin.com/in/yuao-peng-b1364125a)
+* [Linkedin](https://www.linkedin.com/in/yuao-peng-b1364125a)
