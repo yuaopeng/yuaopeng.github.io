@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/aolueur"
-footer_text: "Github"
+footer_text: "Last updated April 2024"
 
 sass:
     style: compressed
