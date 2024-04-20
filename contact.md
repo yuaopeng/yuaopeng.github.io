@@ -3,24 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [yp439@cornell.edu](mailto:yp439@cornell.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+1 (607) 280-8694](tel:+1-6072808694)
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+3. [Linkdin+](www.linkedin.com/in/yuao-peng-b1364125a)
