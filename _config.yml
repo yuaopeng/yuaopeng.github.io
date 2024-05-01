@@ -1,5 +1,5 @@
 title: "Yuao Peng"
-url: "https://aolueur.github.io"
+url: "https://yuaopeng.github.io"
 baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 
@@ -9,7 +9,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/aolueur"
+footer_url: "https://github.com/yuaopeng"
 footer_text: "Last updated April 2024"
 
 sass:
