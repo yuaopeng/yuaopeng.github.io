@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/yuaopeng"
-footer_text: "Last updated April 2024"
+footer_text: "Last updated August 2024"
 
 sass:
     style: compressed
