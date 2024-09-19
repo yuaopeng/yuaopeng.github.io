@@ -9,8 +9,13 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
+<<<<<<< HEAD
 footer_url: "https://github.com/yuaopeng"
+footer_text: "Last updated August 2024"
+=======
+footer_url: "https://github.com/aolueur"
 footer_text: "Last updated September 2024"
+>>>>>>> 323faafb2a6b6e2304d6073555f69ddbda68a2ad
 
 sass:
     style: compressed
